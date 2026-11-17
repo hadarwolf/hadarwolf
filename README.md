@@ -7,8 +7,10 @@
 
 <p align="center">
   <a href="https://hadarwolf.github.io"><img src="https://img.shields.io/badge/Portfolio-hadarwolf.github.io-5b5bf0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Open_to-student_positions-0ea5a4?style=for-the-badge" alt="Open to student positions">
+  <img src="https://img.shields.io/badge/Open_to-student_%26_junior_positions-0ea5a4?style=for-the-badge" alt="Open to student and junior positions">
 </p>
+
+> 💼 **I'm open to student and junior positions** in software engineering, AI/ML and hardware/embedded systems. Feel free to reach out!
 
 ---
 
